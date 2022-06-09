@@ -1,0 +1,20 @@
+body
+{
+    background: rgb(224, 83, 83);
+}
+
+#output
+{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+.num_div1 , .num_div2
+	{
+		padding: 10px;
+		float: none;
+	}
